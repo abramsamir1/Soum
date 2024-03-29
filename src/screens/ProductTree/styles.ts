@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     padding: 14,
   },
   categoryView: {
-    backgroundColor: '#1999',
+    backgroundColor: '#F5F5F5',
     padding: 14,
     marginBottom: 14,
     borderWidth: 1,
@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 2,
     elevation: 2,
-    backgroundColor: '#f9f9f9',
+    backgroundColor: '#FFFFFF',
     borderRadius: 4,
     justifyContent: 'center',
     alignItems: 'center',
@@ -30,12 +30,12 @@ export const styles = StyleSheet.create({
   titleStyle: {
     flex: 1,
     fontSize: 14,
-    color: '#1999',
+    color: '#000000',
   },
   childStyle: {
     fontSize: 14,
     marginLeft: 16,
-    color: '#1999',
+    color: '#000000',
   },
   node: {
     fontWeight: 'bold',
